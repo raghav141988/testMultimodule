@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <artifactId>parent</artifactId>
         <groupId>com.baeldung</groupId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0</version>
         <relativePath>../parent</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
@@ -20,7 +18,7 @@
         <url>https://github.com/raghav141988/testMultimodule.git</url>
         <connection>https://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@github.com/raghav141988/testMultimodule</connection>
         <developerConnection>https://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@github.com/raghav141988/testMultimodule</developerConnection>
-        <tag>HEAD</tag>
+        <tag>parent-project-1.0</tag>
     </scm>
     <distributionManagement>
         <repository>
