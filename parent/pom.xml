@@ -2,7 +2,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
-   <version>1.1</version>
+   <version>1.2-SNAPSHOT</version>
     <artifactId>parent</artifactId>
    <groupId>com.baeldung</groupId>
     <packaging>pom</packaging>
@@ -15,7 +15,7 @@
         <url>scm:git:https://github.com/raghav141988/testMultimodule.git</url>
         <connection>scm:git:https://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@github.com/raghav141988/testMultimodule</connection>
         <developerConnection>scm:git:https://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@github.com/raghav141988/testMultimodule</developerConnection>
-        <tag>parent-project-1.1</tag>
+        <tag>parent-project-1.0</tag>
     </scm>
     <distributionManagement>
         <repository>
