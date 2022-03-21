@@ -13,7 +13,7 @@
 <dependencies>
     <dependency>
         <groupId>com.baeldung</groupId>
-        <artifactId>inner-core</artifactId>
+        <artifactId>core</artifactId>
         <version>${project.version}</version>
     </dependency>
 </dependencies>
