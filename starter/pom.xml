@@ -14,12 +14,7 @@
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
     </properties>
-    <scm>
-        <url>https://github.com/raghav141988/testMultimodule.git</url>
-        <connection>https://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@github.com/raghav141988/testMultimodule</connection>
-        <developerConnection>https://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@github.com/raghav141988/testMultimodule</developerConnection>
-        <tag>parent-project-1.0</tag>
-    </scm>
+
     <distributionManagement>
         <repository>
             <id>repsy</id>

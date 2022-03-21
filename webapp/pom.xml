@@ -12,13 +12,7 @@
         <version>1.2-SNAPSHOT</version>
         <relativePath>../parent</relativePath>
     </parent>
-    <distributionManagement>
-        <repository>
-            <id>repsy</id>
-            <name>My Private Maven Repository on Repsy</name>
-            <url>https://repo.repsy.io/mvn/raghu141988/testrepo</url>
-        </repository>
-    </distributionManagement>
+
     <build>
         <plugins>
             <plugin>
