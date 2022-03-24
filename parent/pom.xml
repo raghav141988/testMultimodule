@@ -31,6 +31,12 @@
                 <artifactId>spring-core</artifactId>
                 <version>${spring-core.version}</version>
             </dependency>
+
+            <dependency>
+                <groupId>com.baeldung</groupId>
+                <artifactId>core</artifactId>
+                <version>1.6-SNAPSHOT</version>
+            </dependency>
         </dependencies>
     </dependencyManagement>
 
