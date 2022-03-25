@@ -3,14 +3,14 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.baeldung</groupId>
     <artifactId>parent-project</artifactId>
-    <version>1.14-SNAPSHOT</version>
+    <version>1.14</version>
     <name>parent-project</name>
     <packaging>pom</packaging>
     <scm>
         <url>scm:git:https://github.com/raghav141988/testMultimodule.git</url>
         <connection>scm:git:https://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@github.com/raghav141988/testMultimodule</connection>
         <developerConnection>scm:git:https://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@github.com/raghav141988/testMultimodule</developerConnection>
-        <tag>parent-project-1.0</tag>
+        <tag>parent-project-1.14</tag>
     </scm>
 
     <distributionManagement>
