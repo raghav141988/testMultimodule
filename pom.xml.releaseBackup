@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.baeldung</groupId>
     <artifactId>parent-project</artifactId>
-    <version>1.10-SNAPSHOT</version>
+    <version>1.9-SNAPSHOT</version>
     <name>parent-project</name>
     <packaging>pom</packaging>
     <scm>
@@ -21,9 +21,11 @@
         </repository>
     </distributionManagement>
     <modules>
-
+        <module>core</module>
+        <module>service</module>
+        <module>webapp</module>
         <module>parent</module>
-
+        <module>starter</module>
 
     </modules>
 
