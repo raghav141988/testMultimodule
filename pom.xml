@@ -6,20 +6,7 @@
     <version>1.15-SNAPSHOT</version>
     <name>parent-project</name>
     <packaging>pom</packaging>
-    <scm>
-        <url>scm:git:https://github.com/raghav141988/testMultimodule.git</url>
-        <connection>scm:git:https://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@github.com/raghav141988/testMultimodule</connection>
-        <developerConnection>scm:git:https://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@github.com/raghav141988/testMultimodule</developerConnection>
-        <tag>parent-project-1.0</tag>
-    </scm>
 
-    <distributionManagement>
-        <repository>
-            <id>repsy</id>
-            <name>My Private Maven Repository on Repsy</name>
-            <url>https://repo.repsy.io/mvn/raghu141988/testrepo</url>
-        </repository>
-    </distributionManagement>
     <modules>
 
         <module>parent</module>
