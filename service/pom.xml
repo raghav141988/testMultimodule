@@ -7,7 +7,7 @@
     <parent>
         <artifactId>parent</artifactId>
         <groupId>com.baeldung</groupId>
-        <version>1.16-SNAPSHOT</version>
+        <version>1.16</version>
         <relativePath>../parent</relativePath>
     </parent>
 <dependencies>
