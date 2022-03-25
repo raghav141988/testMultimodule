@@ -9,7 +9,7 @@
     <parent>
         <artifactId>parent</artifactId>
         <groupId>com.baeldung</groupId>
-        <version>1.17-SNAPSHOT</version>
+        <version>1.17-SNAPSHOT-SNAPSHOT</version>
         <relativePath>../parent</relativePath>
     </parent>
 

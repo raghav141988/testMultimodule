@@ -3,7 +3,7 @@
     <parent>
         <artifactId>parent</artifactId>
         <groupId>com.baeldung</groupId>
-        <version>1.17-SNAPSHOT</version>
+        <version>1.17-SNAPSHOT-SNAPSHOT</version>
         <relativePath>../parent</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
@@ -15,7 +15,13 @@
         <maven.compiler.target>11</maven.compiler.target>
     </properties>
 
-
+    <distributionManagement>
+        <repository>
+            <id>repsy</id>
+            <name>My Private Maven Repository on Repsy</name>
+            <url>https://repo.repsy.io/mvn/raghu141988/testrepo</url>
+        </repository>
+    </distributionManagement>
     <dependencyManagement>
         <dependencies>
             <dependency>
